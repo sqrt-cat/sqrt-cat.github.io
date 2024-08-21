@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sqrtcat 的博客</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on sqrtcat 的博客</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Aug 2024 11:09:02 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wechaty</title>
+      <link>http://localhost:1313/posts/wechat/wechaty/</link>
+      <pubDate>Wed, 21 Aug 2024 11:09:02 +0800</pubDate>
+      <guid>http://localhost:1313/posts/wechat/wechaty/</guid>
+      <description>&lt;p&gt;Wechaty 是一个聊天机器人开源项目，提供了开发聊天机器人的 SDK，方便开发人员快速实现聊天机器人。通过 Wechat 可以获取到微信的聊天内容、联系人、群组、好友关系等信息，也可以实现创建群组、发送消息等功能。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Music-Chapter1</title>
+      <link>http://localhost:1313/posts/music/chapter1/</link>
+      <pubDate>Wed, 14 Aug 2024 14:30:12 +0800</pubDate>
+      <guid>http://localhost:1313/posts/music/chapter1/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tv</title>
+      <link>http://localhost:1313/posts/live/tv/</link>
+      <pubDate>Wed, 14 Aug 2024 11:46:08 +0800</pubDate>
+      <guid>http://localhost:1313/posts/live/tv/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workerman Signal Handler</title>
+      <link>http://localhost:1313/posts/php/workerman-signal-handler/</link>
+      <pubDate>Mon, 12 Aug 2024 14:32:13 +0800</pubDate>
+      <guid>http://localhost:1313/posts/php/workerman-signal-handler/</guid>
+      <description>&lt;p&gt;剖析一下 workerman 是如何实现 status / reload 重启 / graceful reload 平滑重启  / stop 的信号类命令处理的。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>大猫的3号女友来机场了呢</title>
+      <link>http://localhost:1313/posts/your-girlfriend/chapter3/</link>
+      <pubDate>Sat, 10 Aug 2024 22:45:56 +0800</pubDate>
+      <guid>http://localhost:1313/posts/your-girlfriend/chapter3/</guid>
+      <description>&lt;p&gt;那也我喝醉了拉着你的手，就像牵着一条狗！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>V我50发你博客地址</title>
+      <link>http://localhost:1313/posts/your-girlfriend/chapter2/</link>
+      <pubDate>Sat, 10 Aug 2024 12:38:57 +0800</pubDate>
+      <guid>http://localhost:1313/posts/your-girlfriend/chapter2/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>your girlfriend - chapter-1</title>
+      <link>http://localhost:1313/posts/your-girlfriend/chapter1/</link>
+      <pubDate>Sat, 10 Aug 2024 12:38:43 +0800</pubDate>
+      <guid>http://localhost:1313/posts/your-girlfriend/chapter1/</guid>
+      <description>&lt;p&gt;your cute girlfriend, my love. I say over, you approve or approve?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Accelerated Mobile Pages - AMP</title>
+      <link>http://localhost:1313/posts/note-seo-amp/</link>
+      <pubDate>Thu, 08 Aug 2024 17:25:42 +0800</pubDate>
+      <guid>http://localhost:1313/posts/note-seo-amp/</guid>
+      <description>&lt;p&gt;AMP is a web component framework to easily create user-first experiences for the web.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>sitemap 0.9 标准的网站地图协议 for Google / Bing / Yahoo / Baidu</title>
+      <link>http://localhost:1313/posts/note-seo-sitemap/</link>
+      <pubDate>Thu, 08 Aug 2024 17:23:33 +0800</pubDate>
+      <guid>http://localhost:1313/posts/note-seo-sitemap/</guid>
+      <description>&lt;p&gt;sitemap0.9 协议已被各大搜索引擎纳入标准的地图协议，建议各站长将尽快将网站地图更新至本版本，为SEO收录提供基础。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GVC - known will be known naturally</title>
+      <link>http://localhost:1313/posts/vlog-mazda-gvc/gvc/</link>
+      <pubDate>Thu, 08 Aug 2024 15:24:58 +0800</pubDate>
+      <guid>http://localhost:1313/posts/vlog-mazda-gvc/gvc/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mazda3 is the best car, Forever!</title>
+      <link>http://localhost:1313/posts/vlog-mazda/</link>
+      <pubDate>Thu, 08 Aug 2024 13:43:12 +0800</pubDate>
+      <guid>http://localhost:1313/posts/vlog-mazda/</guid>
+      <description>&lt;p&gt;Mazda3 is the best car, Forever!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>天马山上的薄荷花</title>
+      <link>http://localhost:1313/posts/vlog-tms/</link>
+      <pubDate>Thu, 08 Aug 2024 13:38:26 +0800</pubDate>
+      <guid>http://localhost:1313/posts/vlog-tms/</guid>
+      <description>&lt;p&gt;那天我去爬山，看到一朵美丽的花朵，顺手将它拍下，结果创造的经典。&#xA;忍不住唱了几句：啊&lt;del&gt;啊&lt;/del&gt;啊&lt;del&gt;啊&lt;/del&gt;薄荷花，百花丛中你最美。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

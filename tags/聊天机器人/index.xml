@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>聊天机器人 on sqrtcat 的博客</title>
+    <link>http://localhost:1313/tags/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+    <description>Recent content in 聊天机器人 on sqrtcat 的博客</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Aug 2024 11:09:02 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wechaty</title>
+      <link>http://localhost:1313/posts/wechat/wechaty/</link>
+      <pubDate>Wed, 21 Aug 2024 11:09:02 +0800</pubDate>
+      <guid>http://localhost:1313/posts/wechat/wechaty/</guid>
+      <description>&lt;p&gt;Wechaty 是一个聊天机器人开源项目，提供了开发聊天机器人的 SDK，方便开发人员快速实现聊天机器人。通过 Wechat 可以获取到微信的聊天内容、联系人、群组、好友关系等信息，也可以实现创建群组、发送消息等功能。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

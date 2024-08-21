@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live on sqrtcat 的博客</title>
+    <link>http://localhost:1313/tags/live/</link>
+    <description>Recent content in Live on sqrtcat 的博客</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Aug 2024 11:46:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/live/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tv</title>
+      <link>http://localhost:1313/posts/live/tv/</link>
+      <pubDate>Wed, 14 Aug 2024 11:46:08 +0800</pubDate>
+      <guid>http://localhost:1313/posts/live/tv/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

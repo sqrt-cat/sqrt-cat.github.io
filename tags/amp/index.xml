@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amp on sqrtcat 的博客</title>
+    <link>http://localhost:1313/tags/amp/</link>
+    <description>Recent content in Amp on sqrtcat 的博客</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Aug 2024 17:25:42 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/amp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accelerated Mobile Pages - AMP</title>
+      <link>http://localhost:1313/posts/note-seo-amp/</link>
+      <pubDate>Thu, 08 Aug 2024 17:25:42 +0800</pubDate>
+      <guid>http://localhost:1313/posts/note-seo-amp/</guid>
+      <description>&lt;p&gt;AMP is a web component framework to easily create user-first experiences for the web.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
