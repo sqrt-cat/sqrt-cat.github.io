@@ -26,13 +26,16 @@
     <loc>http://localhost:1313/tags/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
     <lastmod>2024-08-21T11:09:02+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/music/</loc>
+    <lastmod>2024-08-14T14:30:12+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/music/</loc>
     <lastmod>2024-08-14T14:30:12+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/music/chapter1/</loc>
     <lastmod>2024-08-14T14:30:12+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/pop/</loc>
+    <loc>http://localhost:1313/tags/pop/</loc>
     <lastmod>2024-08-14T14:30:12+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/live/</loc>
