@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workerman on sqrtcat 的博客</title><link>https://sqrt-cat.github.io/tags/workerman/</link><description>Recent content in Workerman on sqrtcat 的博客</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 12 Aug 2024 14:32:13 +0800</lastBuildDate><atom:link href="https://sqrt-cat.github.io/tags/workerman/index.xml" rel="self" type="application/rss+xml"/><item><title>Workerman Signal Handler</title><link>https://sqrt-cat.github.io/posts/php/workerman-signal-handler/</link><pubDate>Mon, 12 Aug 2024 14:32:13 +0800</pubDate><guid>https://sqrt-cat.github.io/posts/php/workerman-signal-handler/</guid><description>&lt;p>剖析一下 workerman 是如何实现 status / reload 重启 / graceful reload 平滑重启 / stop 的信号类命令处理的。&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workerman on sqrtcat 的博客</title>
+    <link>http://localhost:1313/tags/workerman/</link>
+    <description>Recent content in Workerman on sqrtcat 的博客</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Aug 2024 14:32:13 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/workerman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workerman Signal Handler</title>
+      <link>http://localhost:1313/posts/php/workerman-signal-handler/</link>
+      <pubDate>Mon, 12 Aug 2024 14:32:13 +0800</pubDate>
+      <guid>http://localhost:1313/posts/php/workerman-signal-handler/</guid>
+      <description>&lt;p&gt;剖析一下 workerman 是如何实现 status / reload 重启 / graceful reload 平滑重启  / stop 的信号类命令处理的。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
